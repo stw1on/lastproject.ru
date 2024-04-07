@@ -1,2 +1,0 @@
-# lastproject.ru
-exx
